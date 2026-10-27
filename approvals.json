@@ -2,7 +2,19 @@
 {
   "users": [
     {
-      "user_id": "RAJA-EXAMPLE001",
+      "user_id": "RAJA-DEVICE001",
+      "approved": true
+    },
+    {
+      "user_id": "RAJA-DEVICE002",
+      "approved": false
+    },
+    {
+      "user_id": "RAJA-DEVICE003",
+      "approved": true
+    },
+    {
+      "user_id": "RAJA-DEVICE004",
       "approved": false
     }
   ]
